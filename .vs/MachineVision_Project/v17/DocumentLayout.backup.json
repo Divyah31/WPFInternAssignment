@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\views\\receiverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\views\\receiverview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\views\\senderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\views\\senderview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\viewmodel\\receiverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\viewmodel\\receiverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\viewmodel\\senderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\viewmodel\\senderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\viewmodel\\receiverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\viewmodel\\receiverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\views\\receiverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|solutionrelative:machinevision_project\\views\\receiverview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2EB383A-46EE-49EE-8ECB-0F46B5CC16B7}|MachineVision_Project\\MachineVision_Project.csproj|c:\\users\\dell\\source\\repos\\machinevision_project\\machinevision_project\\views\\senderview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,107 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MachineVision_Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml",
-              "RelativeToolTip": "MachineVision_Project\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T14:29:05.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReceiverView.xaml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\ReceiverView.xaml",
-              "RelativeDocumentMoniker": "MachineVision_Project\\Views\\ReceiverView.xaml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\ReceiverView.xaml",
-              "RelativeToolTip": "MachineVision_Project\\Views\\ReceiverView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T14:22:26.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MessageService.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Services\\MessageService.cs",
               "RelativeDocumentMoniker": "MachineVision_Project\\Services\\MessageService.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Services\\MessageService.cs",
               "RelativeToolTip": "MachineVision_Project\\Services\\MessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:49:03.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMessageService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Services\\IMessageService.cs",
-              "RelativeDocumentMoniker": "MachineVision_Project\\Services\\IMessageService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Services\\IMessageService.cs",
-              "RelativeToolTip": "MachineVision_Project\\Services\\IMessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:48:47.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MachineVision_Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MachineVision_Project\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:20:48.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReceiverViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
-              "RelativeDocumentMoniker": "MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
-              "RelativeToolTip": "MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T14:21:00.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SenderView.xaml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\SenderView.xaml",
-              "RelativeDocumentMoniker": "MachineVision_Project\\Views\\SenderView.xaml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\SenderView.xaml",
-              "RelativeToolTip": "MachineVision_Project\\Views\\SenderView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-25T01:07:45.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SenderViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\SenderViewModel.cs",
-              "RelativeDocumentMoniker": "MachineVision_Project\\ViewModel\\SenderViewModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\SenderViewModel.cs",
-              "RelativeToolTip": "MachineVision_Project\\ViewModel\\SenderViewModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T10:55:58.245Z",
+              "WhenOpened": "2025-06-26T04:48:01.212Z",
               "EditorCaption": ""
             },
             {
@@ -157,9 +69,99 @@
               "RelativeDocumentMoniker": "MachineVision_Project\\Views\\SenderView.xaml.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\SenderView.xaml.cs",
               "RelativeToolTip": "MachineVision_Project\\Views\\SenderView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T01:17:29.049Z",
+              "WhenOpened": "2025-06-26T04:46:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MachineVision_Project\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:45:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SenderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\SenderViewModel.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\ViewModel\\SenderViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\SenderViewModel.cs",
+              "RelativeToolTip": "MachineVision_Project\\ViewModel\\SenderViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:42:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MachineVision_Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\MainWindow.xaml",
+              "RelativeToolTip": "MachineVision_Project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T04:03:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "MachineVision_Project\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:24:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceiverView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\ReceiverView.xaml.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\Views\\ReceiverView.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\Views\\ReceiverView.xaml.cs",
+              "RelativeToolTip": "MachineVision_Project\\Views\\ReceiverView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:47:31.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceiverViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
+              "RelativeToolTip": "MachineVision_Project\\ViewModel\\ReceiverViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T04:48:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MachineVision_Project\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MachineVision_Project\\MachineVision_Project\\App.xaml.cs",
+              "RelativeToolTip": "MachineVision_Project\\App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T03:45:33.367Z",
               "EditorCaption": ""
             }
           ]

@@ -16,11 +16,19 @@
                 <TextBox Text="{Binding MessageText, UpdateSourceTrigger=PropertyChanged}" 
                          FontSize="16" Margin="0 0 0 10" HorizontalAlignment="Stretch"/>
 
+                
                 <!-- Send button -->
                 <Button Content="Send"
                         FontSize="16"
                         Padding="8"
                         Command="{Binding SendCommand}" />
+
+                <!-- Confirmation message -->
+                <TextBlock Text="{Binding ConfirmationMessage}"
+                Foreground="Green"
+                FontSize="12"
+                Margin="0 10 0 0" />
+
             </StackPanel>
         </Grid>
 

@@ -12,7 +12,7 @@ namespace MachineVision_Project.Views
             InitializeComponent();
 
             // Inject SenderViewModel via DI
-            DataContext = App.ServiceProvider.GetRequiredService<SenderViewModel>();
+            //DataContext = App.ServiceProvider.GetRequiredService<SenderViewModel>();
 
         }
     }

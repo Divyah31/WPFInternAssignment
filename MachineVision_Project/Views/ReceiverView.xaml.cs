@@ -12,7 +12,7 @@ namespace MachineVision_Project.Views
             InitializeComponent();
 
             // Inject ReceiverViewModel using DI
-            DataContext = App.ServiceProvider.GetRequiredService<ReceiverViewModel>();
+           // DataContext = App.ServiceProvider.GetRequiredService<ReceiverViewModel>();
         }
     }
 }

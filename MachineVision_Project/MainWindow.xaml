@@ -5,14 +5,25 @@
         xmlns:vm="clr-namespace:MachineVision_Project.ViewModels"
         Title="Message App" Height="400" Width="600">
 
-    <Grid>
-        <TabControl>
-            <TabItem Header="Sender">
-                <views:SenderView />
-            </TabItem>
-            <TabItem Header="Receiver">
-                <views:ReceiverView />
-            </TabItem>
-        </TabControl>
-    </Grid>
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type vm:SenderViewModel}">
+            <views:SenderView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:ReceiverViewModel}">
+            <views:ReceiverView />
+        </DataTemplate>
+    </Window.Resources>
+
+    <DockPanel>
+        <!-- Buttons for switching -->
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="10">
+            <Button Content="Sender" Margin="5"
+                    Command="{Binding ShowSenderCommand}" />
+            <Button Content="Receiver" Margin="5"
+                    Command="{Binding ShowReceiverCommand}" />
+        </StackPanel>
+
+        <!-- This control switches views -->
+        <ContentControl Content="{Binding CurrentViewModel}" />
+    </DockPanel>
 </Window>
